@@ -1,0 +1,1008 @@
+.desktop-datawarehouse,
+.desktop-datawarehouse * {
+  box-sizing: border-box;
+}
+.desktop-datawarehouse {
+  background: linear-gradient(
+    180deg,
+    rgba(246, 250, 253, 1) 0%,
+    rgba(255, 255, 255, 1) 100%
+  );
+  width: 1600px;
+  height: 4500px;
+  position: relative;
+  overflow: hidden;
+}
+._01 {
+  position: absolute;
+  inset: 0;
+}
+.image-1-1 {
+  width: 885px;
+  height: 468px;
+  position: absolute;
+  left: 603px;
+  top: 336px;
+}
+.headline {
+  width: 645px;
+  height: 464px;
+  position: static;
+}
+.data-warehouse-is-a-data-storage-area-that-has-been-tested-for-security-so-you-can-store-your-data-here-safely-but-not-be-afraid-of-being-stolen-by-others {
+  color: var(--_1, #4b5d68);
+  text-align: left;
+  font: 500 18px/160% "Avenir", sans-serif;
+  position: absolute;
+  left: 240px;
+  top: 474px;
+  width: 380px;
+  height: 120px;
+}
+.btn-learn-more {
+  width: 170px;
+  height: 60px;
+  position: static;
+}
+.rectangle-26 {
+  background: var(--_3, #9c69e2);
+  border-radius: 50px;
+  width: 170px;
+  height: 60px;
+  position: absolute;
+  left: 240px;
+  top: 644px;
+}
+.learn-more {
+  color: #ffffff;
+  text-align: center;
+  font: 400 18px/160% "Avenir", sans-serif;
+  position: absolute;
+  left: 277px;
+  top: 660px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.save-your-data-storage-here {
+  color: var(--_2, #212353);
+  text-align: left;
+  font: 700 80px/110% "Helvetica", sans-serif;
+  position: absolute;
+  left: 240px;
+  top: 240px;
+  width: 645px;
+  height: 184px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.top {
+  width: 1120px;
+  height: 60px;
+  position: static;
+}
+.nav {
+  width: 322px;
+  height: 30px;
+  position: static;
+}
+.about {
+  color: var(--_2, #212353);
+  text-align: left;
+  font: 400 16px/160% "Avenir", sans-serif;
+  position: absolute;
+  left: 410px;
+  top: 65px;
+  width: 53px;
+  height: 30px;
+}
+.help {
+  color: var(--_1, #4b5d68);
+  text-align: left;
+  font: 500 16px/160% "Avenir", sans-serif;
+  position: absolute;
+  left: 503px;
+  top: 67px;
+}
+.features {
+  color: var(--_1, #4b5d68);
+  text-align: left;
+  font: 500 16px/160% "Avenir", sans-serif;
+  position: absolute;
+  left: 578px;
+  top: 67px;
+}
+.signup {
+  color: var(--_1, #4b5d68);
+  text-align: left;
+  font: 500 16px/160% "Avenir", sans-serif;
+  position: absolute;
+  left: 681px;
+  top: 67px;
+}
+.btn-request-demo {
+  width: 210px;
+  height: 60px;
+  position: static;
+}
+.rectangle-262 {
+  background: #ffffff;
+  border-radius: 50px;
+  width: 210px;
+  height: 60px;
+  position: absolute;
+  left: 1150px;
+  top: 50px;
+  box-shadow: 0px 5px 5px 0px rgba(75, 93, 104, 0.1);
+}
+.group-57 {
+  width: 152px;
+  height: 26px;
+  position: static;
+}
+.request-demo {
+  color: var(--_2, #212353);
+  text-align: left;
+  font: 400 16px/160% "Avenir", sans-serif;
+  position: absolute;
+  left: 1179px;
+  top: 67px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.group-56 {
+  position: absolute;
+  left: 1311px;
+  top: 73px;
+  overflow: visible;
+}
+.logo {
+  width: 49px;
+  height: 35px;
+  position: static;
+}
+.rectangle-32 {
+  background: #9c69e2;
+  border-radius: 20px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  left: 240px;
+  top: 77px;
+}
+.rectangle-33 {
+  background: #f063b8;
+  border-radius: 20px;
+  width: 20px;
+  height: 35px;
+  position: absolute;
+  left: 269px;
+  top: 62px;
+}
+._02 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-34 {
+  background: rgba(240, 99, 184, 0.15);
+  border-radius: 50px;
+  width: 1117px;
+  height: 560px;
+  position: absolute;
+  left: 240px;
+  top: 903.18px;
+}
+.text {
+  width: 475px;
+  height: 310px;
+  position: static;
+}
+.the-place-to-store-various-data-that-you-can-access-at-any-time-through-the-internet-and-where-you-can-carry-it-this-very-flexible-storage-area-has-a-high-level-of-security-to-enter-into-your-own-data-you-must-enter-the-password-that-you-created-when-you-registered-in-this-data-warehouse {
+  color: var(--_1, #4b5d68);
+  text-align: left;
+  font: 500 18px/160% "Avenir", sans-serif;
+  position: absolute;
+  left: 790px;
+  top: 1168.18px;
+  width: 474px;
+  height: 170px;
+}
+.we-are-a-high-level-data-storage-bank {
+  color: #212353;
+  text-align: left;
+  font: var(--sub-headline, 700 40px/130% "Helvetica", sans-serif);
+  position: absolute;
+  left: 790px;
+  top: 1028.18px;
+  width: 475px;
+  height: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.image-2 {
+  width: 477px;
+  height: 504px;
+  position: absolute;
+  left: 251px;
+  top: 935px;
+}
+._03 {
+  position: absolute;
+  inset: 0;
+}
+.title {
+  width: 584px;
+  height: 160px;
+  position: static;
+}
+.features2 {
+  color: #212353;
+  text-align: center;
+  font: 700 40px/130% "Helvetica", sans-serif;
+  position: absolute;
+  left: 596.28px;
+  top: 1613px;
+  width: 405px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.some-of-the-features-and-advantages-that-we-provide-for-those-of-you-who-store-data-in-this-data-warehouse {
+  color: var(--_1, #4b5d68);
+  text-align: center;
+  font: 500 18px/160% "Avenir", sans-serif;
+  position: absolute;
+  left: 507.28px;
+  top: 1715px;
+  width: 584px;
+}
+._012 {
+  width: 519.27px;
+  height: 355px;
+  position: static;
+}
+.vector-56 {
+  position: absolute;
+  left: 674.41px;
+  top: 2070.99px;
+  transform: translate(-118.92px, -182.86px);
+  overflow: visible;
+}
+.ellipse-61 {
+  border-radius: 50%;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 1.5px;
+  width: 33.7px;
+  height: 19.91px;
+  position: absolute;
+  left: 621.4px;
+  top: 1916.88px;
+  transform-origin: 0 0;
+  transform: rotate(20.718deg) scale(1, 1);
+}
+.image-3-1 {
+  width: 232px;
+  height: 211px;
+  position: absolute;
+  left: 239px;
+  top: 1946px;
+}
+.don-t-worry-if-your-data-is-very-large-the-data-warehoue-provides-a-search-engine-which-is-useful-for-making-it-easier-to-find-data-effectively-saving-time {
+  color: var(--_1, #4b5d68);
+  text-align: left;
+  font: 400 16px/160% "Avenir", sans-serif;
+  position: absolute;
+  left: 500.28px;
+  top: 1992px;
+  width: 220px;
+  height: 160px;
+}
+.group-572 {
+  width: 127px;
+  height: 26px;
+  position: static;
+}
+.learn-more2 {
+  color: var(--_2, #212353);
+  text-align: left;
+  font: 400 16px/160% "Avenir", sans-serif;
+  position: absolute;
+  left: 500.28px;
+  top: 2172px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.group-562 {
+  position: absolute;
+  left: 607.28px;
+  top: 2178px;
+  overflow: visible;
+}
+.search-data {
+  color: #212353;
+  text-align: left;
+  font: 400 24px/130% "Helvetica", sans-serif;
+  position: absolute;
+  left: 500.28px;
+  top: 1922px;
+  width: 200px;
+  height: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+._3 {
+  width: 527.33px;
+  height: 303px;
+  position: static;
+}
+.ellipse-612 {
+  border-radius: 50%;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 1.5px;
+  width: 68.05px;
+  height: 40.21px;
+  position: absolute;
+  left: 747.33px;
+  top: 2337.83px;
+  transform-origin: 0 0;
+  transform: rotate(150deg) scale(1, 1);
+}
+.image-5-1 {
+  width: 245px;
+  height: 181px;
+  position: absolute;
+  left: 220px;
+  top: 2404px;
+}
+.print-out-service-gives-you-convenience-if-someday-you-need-print-data-just-edit-it-all-and-just-print-it {
+  color: var(--_1, #4b5d68);
+  text-align: left;
+  font: 400 16px/160% "Avenir", sans-serif;
+  position: absolute;
+  left: 500.28px;
+  top: 2400px;
+  width: 220px;
+  height: 160px;
+}
+.learn-more3 {
+  color: var(--_2, #212353);
+  text-align: left;
+  font: 400 16px/160% "Avenir", sans-serif;
+  position: absolute;
+  left: 500.28px;
+  top: 2580px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.group-563 {
+  position: absolute;
+  left: 607.28px;
+  top: 2586px;
+  overflow: visible;
+}
+.print-out {
+  color: #212353;
+  text-align: left;
+  font: 400 24px/130% "Helvetica", sans-serif;
+  position: absolute;
+  left: 500.28px;
+  top: 2330px;
+  width: 200px;
+  height: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+._2 {
+  width: 543.85px;
+  height: 345.56px;
+  position: static;
+}
+.vector-562 {
+  position: absolute;
+  left: 1199.72px;
+  top: 2019px;
+  transform: translate(-80.22px, 49.23px);
+  overflow: visible;
+}
+.image-4 {
+  width: 241px;
+  height: 185px;
+  position: absolute;
+  left: 813px;
+  top: 1944px;
+}
+.access-is-given-24-hours-a-full-morning-to-night-and-meet-again-in-the-morning-giving-you-comfort-when-you-need-data-when-urgent {
+  color: var(--_1, #4b5d68);
+  text-align: left;
+  font: 400 16px/160% "Avenir", sans-serif;
+  position: absolute;
+  left: 1087.28px;
+  top: 1992px;
+  width: 220px;
+  height: 160px;
+}
+.learn-more4 {
+  color: var(--_2, #212353);
+  text-align: left;
+  font: 400 16px/160% "Avenir", sans-serif;
+  position: absolute;
+  left: 1087.28px;
+  top: 2172px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.group-564 {
+  position: absolute;
+  left: 1194.28px;
+  top: 2178px;
+  overflow: visible;
+}
+._24-hours-access {
+  color: #212353;
+  text-align: left;
+  font: 400 24px/130% "Helvetica", sans-serif;
+  position: absolute;
+  left: 1087.28px;
+  top: 1922px;
+  width: 200px;
+  height: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+._4 {
+  width: 515.06px;
+  height: 340.06px;
+  position: static;
+}
+.ellipse-613 {
+  border-radius: 50%;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 1.5px;
+  width: 61.85px;
+  height: 36.55px;
+  position: absolute;
+  left: 1275.21px;
+  top: 2559px;
+  transform-origin: 0 0;
+  transform: rotate(20.718deg) scale(1, 1);
+}
+.vector-563 {
+  position: absolute;
+  left: 931.28px;
+  top: 2358.75px;
+  transform: translate(34.45px, -55.95px);
+  overflow: visible;
+}
+.image-6-1 {
+  width: 230px;
+  height: 201px;
+  position: absolute;
+  left: 818px;
+  top: 2367px;
+}
+.data-security-is-one-of-our-best-facilities-allows-for-your-files-to-be-safer-the-file-can-be-secured-with-a-code-or-password-that-you-created-so-only-you-can-open-the-file {
+  color: var(--_1, #4b5d68);
+  text-align: left;
+  font: 400 16px/160% "Avenir", sans-serif;
+  position: absolute;
+  left: 1087.28px;
+  top: 2400px;
+  width: 220px;
+  height: 160px;
+}
+.learn-more5 {
+  color: var(--_2, #212353);
+  text-align: left;
+  font: 400 16px/160% "Avenir", sans-serif;
+  position: absolute;
+  left: 1087.28px;
+  top: 2580px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.group-565 {
+  position: absolute;
+  left: 1194.28px;
+  top: 2586px;
+  overflow: visible;
+}
+.security-code {
+  color: #212353;
+  text-align: left;
+  font: 400 24px/130% "Helvetica", sans-serif;
+  position: absolute;
+  left: 1087.28px;
+  top: 2330px;
+  width: 200px;
+  height: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+._04 {
+  position: absolute;
+  inset: 0;
+}
+.btns {
+  width: 410px;
+  height: 60px;
+  position: static;
+}
+.rectangle-263 {
+  background: #ffffff;
+  border-radius: 50px;
+  width: 210px;
+  height: 60px;
+  position: absolute;
+  left: 1147px;
+  top: 3771px;
+  box-shadow: 0px 5px 5px 0px rgba(75, 93, 104, 0.1);
+}
+.request-demo2 {
+  color: var(--_2, #212353);
+  text-align: left;
+  font: 400 16px/160% "Avenir", sans-serif;
+  position: absolute;
+  left: 1176px;
+  top: 3788px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.group-566 {
+  position: absolute;
+  left: 1308px;
+  top: 3794px;
+  overflow: visible;
+}
+.rectangle-264 {
+  background: var(--_4, #f063b8);
+  border-radius: 50px;
+  width: 170px;
+  height: 60px;
+  position: absolute;
+  left: 947px;
+  top: 3771px;
+}
+.learn-more6 {
+  color: #ffffff;
+  text-align: center;
+  font: 400 18px/160% "Avenir", sans-serif;
+  position: absolute;
+  left: 984px;
+  top: 3787px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.title2 {
+  width: 584px;
+  height: 101px;
+  position: static;
+}
+.try-for-free {
+  color: #212353;
+  text-align: left;
+  font: 700 40px/130% "Helvetica", sans-serif;
+  position: absolute;
+  left: 240px;
+  top: 3750px;
+  width: 405px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.get-limited-1-week-free-try-our-features {
+  color: var(--_1, #4b5d68);
+  text-align: left;
+  font: 500 18px/160% "Avenir", sans-serif;
+  position: absolute;
+  left: 240px;
+  top: 3822px;
+  width: 584px;
+}
+.rectangle-41 {
+  background: var(--_3, #9c69e2);
+  opacity: 0.20000000298023224;
+  width: 1600px;
+  height: 2px;
+  position: absolute;
+  left: 0px;
+  top: 3648px;
+}
+.footer {
+  width: 1117px;
+  height: 408px;
+  position: static;
+}
+.nav2 {
+  width: 1117px;
+  height: 405px;
+  position: static;
+}
+.data-warehouse {
+  color: var(--_2, #212353);
+  text-align: left;
+  font: 400 20px/160% "Avenir", sans-serif;
+  position: absolute;
+  left: 309px;
+  top: 4004px;
+  width: 153px;
+  height: 30px;
+}
+.warehouse-society-234-bahagia-ave-street-prbw-29281 {
+  color: var(--_2, #212353);
+  text-align: left;
+  font: 500 16px/180% "Avenir", sans-serif;
+  position: absolute;
+  left: 240px;
+  top: 4101px;
+  width: 335px;
+  height: 65px;
+}
+.datawarehouse-2020-all-rights-reserved-company-registration-number-21479524 {
+  color: var(--_2, #212353);
+  text-align: left;
+  font: 400 12px/180% "Avenir", sans-serif;
+  position: absolute;
+  left: 240px;
+  top: 4354px;
+  width: 360px;
+  height: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.group-64 {
+  width: 60px;
+  height: 60px;
+  position: static;
+}
+.ellipse-68 {
+  background: var(--_3, #9c69e2);
+  border-radius: 50%;
+  opacity: 0.20000000298023224;
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  left: 1297px;
+  top: 4349px;
+}
+.group-62 {
+  width: 30px;
+  height: 29px;
+  position: static;
+}
+.rectangle-42 {
+  border-radius: 0px 0px 0px 0px;
+  position: absolute;
+  left: 1312px;
+  top: 4365px;
+  overflow: visible;
+}
+.group-63 {
+  width: 16px;
+  height: 4px;
+  position: static;
+}
+.ellipse-69 {
+  background: #ffffff;
+  border-radius: 50%;
+  width: 4px;
+  height: 4px;
+  position: absolute;
+  left: 1319px;
+  top: 4375px;
+}
+.ellipse-70 {
+  background: #ffffff;
+  border-radius: 50%;
+  width: 4px;
+  height: 4px;
+  position: absolute;
+  left: 1325px;
+  top: 4375px;
+}
+.ellipse-71 {
+  background: #ffffff;
+  border-radius: 50%;
+  width: 4px;
+  height: 4px;
+  position: absolute;
+  left: 1331px;
+  top: 4375px;
+}
+.rectangle-43 {
+  border-radius: 0px 0px 0px 0px;
+  position: absolute;
+  left: 1312px;
+  top: 4388px;
+  overflow: visible;
+}
+.info-warehouse-project-1-232-3434-main {
+  color: var(--_2, #212353);
+  text-align: left;
+  font: 400 16px/180% "Avenir", sans-serif;
+  position: absolute;
+  left: 240px;
+  top: 4176px;
+  width: 335px;
+  height: 60px;
+}
+.about2 {
+  width: 166px;
+  height: 220px;
+  position: static;
+}
+.about3 {
+  color: var(--_2, #212353);
+  text-align: left;
+  font: 400 16px/160% "Avenir", sans-serif;
+  position: absolute;
+  left: 715px;
+  top: 4011px;
+  width: 51.75px;
+  height: 30px;
+}
+.profile-features-careers-dw-news {
+  color: var(--_2, #212353);
+  text-align: left;
+  font: 400 16px/250% "Avenir", sans-serif;
+  position: absolute;
+  left: 715px;
+  top: 4071px;
+  width: 166px;
+  height: 160px;
+}
+.help2 {
+  width: 166px;
+  height: 250px;
+  position: static;
+}
+.help3 {
+  color: var(--_2, #212353);
+  text-align: left;
+  font: 400 16px/160% "Avenir", sans-serif;
+  position: absolute;
+  left: 931px;
+  top: 4011px;
+  width: 51.75px;
+  height: 30px;
+}
+.support-sign-up-guide-reports-q-a {
+  color: var(--_2, #212353);
+  text-align: left;
+  font: 400 16px/250% "Avenir", sans-serif;
+  position: absolute;
+  left: 931px;
+  top: 4071px;
+  width: 166px;
+  height: 190px;
+}
+.sm {
+  width: 178px;
+  height: 110px;
+  position: static;
+}
+.social-media {
+  color: var(--_2, #212353);
+  text-align: left;
+  font: 400 16px/160% "Avenir", sans-serif;
+  position: absolute;
+  left: 1147px;
+  top: 4011px;
+  width: 170px;
+  height: 30px;
+}
+.sm2 {
+  width: 178px;
+  height: 50px;
+  position: static;
+}
+.t {
+  position: absolute;
+  left: 1211px;
+  top: 4071px;
+  overflow: visible;
+}
+.i {
+  position: absolute;
+  left: 1275px;
+  top: 4071px;
+  overflow: visible;
+}
+.f {
+  position: absolute;
+  left: 1147px;
+  top: 4071px;
+  overflow: visible;
+}
+.rectangle-322 {
+  background: #9c69e2;
+  border-radius: 20px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  left: 240px;
+  top: 4016px;
+}
+.rectangle-332 {
+  background: #f063b8;
+  border-radius: 20px;
+  width: 20px;
+  height: 35px;
+  position: absolute;
+  left: 269px;
+  top: 4001px;
+}
+._05 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-342 {
+  background: var(--_3, #9c69e2);
+  border-radius: 50px;
+  width: 1118px;
+  height: 709px;
+  position: absolute;
+  left: 242px;
+  top: 2789px;
+}
+._1 {
+  width: 949px;
+  height: 330px;
+  position: static;
+}
+.rectangle-35 {
+  background: #ffffff;
+  border-radius: 20px;
+  width: 949px;
+  height: 330px;
+  position: absolute;
+  left: 335px;
+  top: 3038px;
+  box-shadow: 0px 20px 0px 0px rgba(156, 105, 226, 0.3);
+}
+.group-66 {
+  width: 743.02px;
+  height: 220px;
+  position: static;
+}
+.group-68 {
+  width: 743.02px;
+  height: 220px;
+  position: static;
+}
+.ellipse-76 {
+  background: linear-gradient(to left, #f063b8, #f063b8);
+  border-radius: 50%;
+  width: 132.42px;
+  height: 90px;
+  position: absolute;
+  left: 437.99px;
+  top: 3098px;
+}
+.group-67 {
+  width: 566.46px;
+  height: 200px;
+  position: static;
+}
+.suspendisse-ultrices-at-diam-lectus-nullam-nisl-sagittis-viverra-enim-erat-tortor-ultricies-massa-turpis-arcu-pulvinar-aenean-nam-laoreet-nulla {
+  color: var(--_1, #4b5d68);
+  text-align: left;
+  font: 400 18px/180% "Avenir", sans-serif;
+  position: absolute;
+  left: 614.55px;
+  top: 3188px;
+  width: 566.46px;
+  height: 130px;
+}
+.group-65 {
+  width: 250.12px;
+  height: 51px;
+  position: static;
+}
+.john-fang {
+  color: var(--_2, #212353);
+  text-align: left;
+  font: 400 18px/160% "Avenir", sans-serif;
+  position: absolute;
+  left: 614.55px;
+  top: 3118px;
+  width: 250.12px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.wordfaang-com {
+  color: var(--_3, #9c69e2);
+  text-align: left;
+  font: 500 14px/160% "Avenir", sans-serif;
+  position: absolute;
+  left: 614.55px;
+  top: 3147px;
+  width: 148.6px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.testimonials {
+  color: #ffffff;
+  text-align: left;
+  font: 700 40px/130% "Helvetica", sans-serif;
+  position: absolute;
+  left: 335px;
+  top: 2898px;
+  width: 405px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.slide {
+  width: 55px;
+  height: 10px;
+  position: static;
+}
+.ellipse-72 {
+  background: var(--_4, #f063b8);
+  border-radius: 50%;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+  left: 335px;
+  top: 3428px;
+}
+.ellipse-73 {
+  background: #ffffff;
+  border-radius: 50%;
+  width: 5px;
+  height: 5px;
+  position: absolute;
+  left: 355px;
+  top: 3431px;
+}
+.ellipse-74 {
+  background: #ffffff;
+  border-radius: 50%;
+  width: 5px;
+  height: 5px;
+  position: absolute;
+  left: 370px;
+  top: 3431px;
+}
+.ellipse-75 {
+  background: #ffffff;
+  border-radius: 50%;
+  width: 5px;
+  height: 5px;
+  position: absolute;
+  left: 385px;
+  top: 3431px;
+}
+.group-567 {
+  opacity: 0.5;
+  position: absolute;
+  left: 1264px;
+  top: 3426px;
+  overflow: visible;
+}
+.group-573 {
+  position: absolute;
+  left: 1244px;
+  top: 3440px;
+  transform: translate(-41px, -15px);
+  overflow: visible;
+}
